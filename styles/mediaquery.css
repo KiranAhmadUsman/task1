@@ -1,0 +1,23 @@
+@media only screen and (max-width: 1200px) {
+    
+    
+   
+      
+    .main-content--side_img{
+        width: 60rem;
+    }
+  }
+  @media only screen and (max-width: 900px) {
+   
+   
+    .main-content--text h2{
+        font-size: 3rem;
+    }
+    .main-content--text p{
+        font-size: 1.2rem;
+        
+    }
+    .main-content--side_img{
+        width: 45rem;
+    }
+  }
